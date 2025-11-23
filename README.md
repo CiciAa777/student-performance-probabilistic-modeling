@@ -35,3 +35,25 @@ course: 0, home: 1, other: 2, reputation: 3
 
 'guardian' column:
 father: 0, mother: 1, other: 2
+
+4. Variables kept as the original:
+
+'Medu' & 'Fedu': 0 - none,  1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher education
+
+'traveltime': 1 - <15 min., 2 - 15 to 30 min., 3 - 30 min. to 1 hour, or 4 - >1 hour
+
+'studytime': 1 - <2 hours, 2 - 2 to 5 hours, 3 - 5 to 10 hours, or 4 - >10 hours
+
+'failures': n if 1<=n<3, else 4
+
+'famrel': from 1 - very bad to 5 - excellent
+
+'freetime': from 1 - very low to 5 - very high
+
+'goout': from 1 - very low to 5 - very high
+
+'Dalc': from 1 - very low to 5 - very high
+
+'Walc': from 1 - very low to 5 - very high
+
+'health': from 1 - very bad to 5 - very good
