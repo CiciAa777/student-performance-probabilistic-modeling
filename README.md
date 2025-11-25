@@ -1,7 +1,7 @@
 # student-performance-probabilistic-modeling
 
 
-Data Processing:
+Data Processing (Data_processing_250a.ipynb):
 
 1. Binary Variables:
 
@@ -57,3 +57,13 @@ father: 0, mother: 1, other: 2
 'Walc': from 1 - very low to 5 - very high
 
 'health': from 1 - very bad to 5 - very good
+
+MLE part:
+
+1. MLE_internal_factor_and_whole_data_Yiming.ipynb: implement the basic MLE model with internal factor dataset and the whole dataset, also implement the Laplace Smoothing
+
+2. mle.py: implement the MLE model with external factor dataset
+
+EM part:
+
+1. EM_code.py: implement the EM algorithm
